@@ -19,11 +19,12 @@ function App() {
             <Route path="/microbes" element={<MicrobeList />} />
             <Route path="/microbe/:id" element={<MicrobeProfile />} />
             <Route path="/admin" element={<AdminDashboard />} />
+            <Route path="/admin" element={<AdminDashboard />} />
           </Routes>
         </main>
         <footer className="footer bg-dark text-white py-3">
           <div className="container text-center">
-            <p className="mb-0">© 2023 MicrobeDB - All rights reserved</p>
+            <p className="mb-0">© 2025 MicrobeDB - All rights reserved</p>
           </div>
         </footer>
       </div>
