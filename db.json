@@ -1,0 +1,91 @@
+{
+  "microbes": [
+    {
+      "id": "1",
+      "name": "E. coli",
+      "disease": "Gastroenteritis",
+      "type": "bacteria",
+      "classification": "Gram-negative",
+      "pathogenicity": 4,
+      "symptoms": "Abdominal pain, diarrhea",
+      "treatment": "Antibiotics, hydration",
+      "labResults": "Positive culture in MacConkey agar"
+    },
+    {
+      "id": "2",
+      "name": "Staphylococcus aureus",
+      "disease": "Skin infections",
+      "type": "bacteria",
+      "classification": "Gram-positive",
+      "pathogenicity": 5,
+      "symptoms": "Pus-filled boils, redness",
+      "treatment": "Antibiotics (e.g., cephalexin)",
+      "labResults": "Coagulase positive test"
+    },
+    {
+      "id": "3",
+      "name": "Influenza A virus",
+      "disease": "Flu",
+      "type": "virus",
+      "classification": "Orthomyxoviridae",
+      "pathogenicity": 3,
+      "symptoms": "Fever, cough, muscle aches",
+      "treatment": "Antivirals (oseltamivir), rest",
+      "labResults": "Positive PCR for viral RNA"
+    },
+    {
+      "id": "4",
+      "name": "Candida albicans",
+      "disease": "Oral thrush",
+      "type": "fungus",
+      "classification": "Yeast",
+      "pathogenicity": 2,
+      "symptoms": "White patches in the mouth",
+      "treatment": "Antifungals (nystatin)",
+      "labResults": "Germ tube test positive"
+    },
+    {
+      "id": "5",
+      "name": "Mycobacterium tuberculosis",
+      "disease": "Tuberculosis",
+      "type": "bacteria",
+      "classification": "Acid-fast bacillus",
+      "pathogenicity": 5,
+      "symptoms": "Persistent cough, weight loss",
+      "treatment": "Isoniazid, rifampin, pyrazinamide",
+      "labResults": "AFB positive in sputum"
+    },
+    {
+      "id": "6",
+      "name": "Plasmodium falciparum",
+      "disease": "Malaria",
+      "type": "parasite",
+      "classification": "Protozoa",
+      "pathogenicity": 5,
+      "symptoms": "Fever, chills, anemia",
+      "treatment": "Artemisinin-based combination therapy",
+      "labResults": "Positive thick and thin blood smears"
+    },
+    {
+      "id": "7",
+      "name": "Norovirus",
+      "disease": "Viral gastroenteritis",
+      "type": "virus",
+      "classification": "Caliciviridae",
+      "pathogenicity": 3,
+      "symptoms": "Nausea, vomiting, diarrhea",
+      "treatment": "Rehydration, rest",
+      "labResults": "RT-PCR detection from stool"
+    },
+    {
+      "id": "e57c",
+      "name": "streptococcus pyogenes",
+      "disease": "Scarlet fever",
+      "type": "Bacteria",
+      "pathogenicity": "Produce exotoxins and streptolysins",
+      "treatment": "Antibiotics",
+      "symptoms": "strawberry tongue ,red  rash,fever ,sore throat",
+      "labResults": "Gram staining ,culturing"
+    }
+  ]
+}
