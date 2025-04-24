@@ -15,5 +15,4 @@ function SortBar({ setSortField }) {
     </div>
   );
 }
-
 export default SortBar;
